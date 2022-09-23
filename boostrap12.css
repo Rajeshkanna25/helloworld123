@@ -1,0 +1,16 @@
+#h{
+    text-align: center;
+    color: white;
+    background-color: royalblue;
+    
+}
+body{
+    background-image: url(https://www.bing.com/th?id=OIP.gu7cdM48suT9eNdE3cyf0AHaE8&w=306&h=204&c=8&rs=1&qlt=90&o=6&dpr=1.25&pid=3.1&rm=2);
+    background-size: 1366px 768px;
+
+}
+.ta,td,tr{
+    border: 2px solid;
+    width: 200px;
+    
+}
